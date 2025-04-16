@@ -4,121 +4,121 @@
       "id": 1,
       "city": "NewYork",
       "number": "14",
-      "price": "186.335$"
+      "price": "$186.335"
     },
     {
       "id": 2,
       "city": "LosAngeles",
       "number": "10",
-      "price": "116.005$"
+      "price": "$116.005"
     },
     {
       "id": 3,
       "city": "Houston",
       "number": "20",
-      "price": "106.405$"
+      "price": "$106.405"
     },
     {
       "id": 4,
       "city": "Phoenix",
       "number": "2",
-      "price": "106.925$"
+      "price": "$106.925"
     },
     {
       "id": 5,
       "city": "SanFrancisco",
       "number": "5",
-      "price": "106.005$"
+      "price": "$106.005"
     },
     {
       "id": 6,
       "city": "SanDiego",
       "number": "6",
-      "price": "106.895$"
+      "price": "$106.895"
     },
     {
       "id": 7,
       "city": "Dallas",
       "number": "11",
-      "price": "96.335$"
+      "price": $"96.335"
     },
     {
       "id": 8,
       "city": "Austin",
       "number": "10",
-      "price": "98.555$"
+      "price": $"98.555"
     },
     {
       "id": 9,
       "city": "Philadelphia",
       "number": "1",
-      "price": "98.335$"
+      "price": $"98.335"
     },
     {
       "id": 10,
       "city": "Seattle",
       "number": "2",
-      "price": "98.004$"
+      "price": $"98.004"
     },
     {
       "id": 11,
       "city": "Denver",
       "number": "14",
-      "price": "98.115$"
+      "price": $"98.115"
     },
     {
       "id": 12,
       "city": "Miami",
       "number": "10",
-      "price": "96.335$"
+      "price": $"96.335"
     },
     {
       "id": 13,
       "city": "LasVegas",
       "number": "1",
-      "price": "86.665$"
+      "price": $"86.665"
     },
     {
       "id": 14,
       "city": "Atlanta",
       "number": "16",
-      "price": "77.235$"
+      "price": $"77.235"
     },
     {
       "id": 15,
       "city": "Boston",
       "number": "7",
-      "price": "60.300$"
+      "price": $"60.300"
     },
     {
       "id": 16,
       "city": "Nashville",
       "number": "9",
-      "price": "54.035$"
+      "price": $"54.035"
     },
     {
       "id": 17,
       "city": "Portland",
       "number": "19",
-      "price": "30.335$"
+      "price": $"30.335"
     },
     {
       "id": 18,
       "city": "SanAntonio",
       "number": "6",
-      "price": "20.400$"
+      "price": $"20.400"
     },
     {
       "id": 19,
       "city": "NewOrleans",
       "number": "10",
-      "price": "16.335$"
+      "price": $"16.335"
     },
     {
       "id": 20,
       "city": "Phoenix",
       "number": "18",
-      "price": "10.786$"
+      "price": $"10.786"
     }
   ],
   "products": [
