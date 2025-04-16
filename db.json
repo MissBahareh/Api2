@@ -123,14 +123,68 @@
   ],
   "products": [
     {
-      "id": 101,
-      "name": "Laptop",
-      "price": 1200
+      "id": "#665214",
+      "name": "LeatherJacket",
+      "image": "",
+      "inStock": "inStock 08",
+      "status": "Processing",
+      "Gender": "Women"
     },
     {
-      "id": 102,
-      "name": "Phone",
-      "price": 800
+      "id": "#940004",
+      "name": "Raincoats",
+      "image": "",
+      "inStock": "inStock 14",
+      "status": "Processing",
+      "Gender": "Man"
+    },
+    {
+      "id": "#325569",
+      "name": "Short Sleeve",
+      "image": "",
+      "inStock": "inStock 21",
+      "status": "Onhold",
+      "Gender": "Women"
+    },
+    {
+      "id": "#124588",
+      "name": "Short Sleeve",
+      "image": "",
+      "inStock": "inStock 12",
+      "status": "Onhold",
+      "Gender": "Women"
+    },
+    {
+      "id": "#365586",
+      "name": "T shirt",
+      "image": "",
+      "inStock": "inStock 10",
+      "status": "Processing",
+      "Gender": "Man"
+    },
+    {
+      "id": "#365586",
+      "name": "T shirt",
+      "image": "",
+      "inStock": "inStock 10",
+      "status": "Onhold",
+      "Gender": "Man"
+    },
+    {
+      "id": "#363686",
+      "name": "Shirt",
+      "image": "",
+      "inStock": "inStock 20",
+      "status": "Onhold",
+      "Gender": "Man"
+    },
+    {
+      "id": "#363686",
+      "name": "Shirt",
+      "image": "",
+      "inStock": "inStock 20",
+      "status": "Onhold",
+      "Gender": "Man"
     }
   ],
   "orders": [
