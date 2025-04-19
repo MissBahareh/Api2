@@ -258,5 +258,56 @@
       "Amount": "76$",
       "id": "9"
     }
+  ],
+  "Purchase": [
+    {
+      "Date": "20May",
+      "Name": "Benjamin Chaz",
+      "Status": "Pending",
+      "Amount": "120$",
+      "id": "1"
+    },
+    {
+      "Date": "20May",
+      "Name": "Walter Beau",
+      "Status": "Delivered",
+      "Amount": "250$",
+      "id": "2"
+    },
+    {
+      "Date": "26May",
+      "Name": "Diego Greene",
+      "Status": "Delivered",
+      "Amount": "90$",
+      "id": "3"
+    },
+    {
+      "Date": "26May",
+      "Name": "Hector Graves",
+      "Status": "Pending",
+      "Amount": "90$",
+      "id": "4"
+    },
+    {
+      "Date": "26May",
+      "Name": "Hector Graves",
+      "Status": "Delivered",
+      "Amount": "85$",
+      "id": "4"
+    },
+    {
+      "Date": "26May",
+      "Name": "Romeo Garner",
+      "Status": "Delivered",
+      "Amount": "85$",
+      "id": "5"
+    },
+    {
+      "Date": "27May",
+      "Name": "Katarina Aba",
+      "Status": "Pending",
+      "Amount": "85$",
+      "id": "6"
+    }
   ]
 }
