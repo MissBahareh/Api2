@@ -261,35 +261,35 @@
   ],
   "Purchase": [
     {
-      "Date": "20May",
+      "Date": "10May",
       "Name": "Benjamin Chaz",
       "Status": "Pending",
       "Amount": "120$",
       "id": "1"
     },
     {
-      "Date": "20May",
+      "Date": "12May",
       "Name": "Walter Beau",
       "Status": "Delivered",
       "Amount": "250$",
       "id": "2"
     },
     {
-      "Date": "26May",
+      "Date": "15May",
       "Name": "Diego Greene",
       "Status": "Delivered",
       "Amount": "90$",
       "id": "3"
     },
     {
-      "Date": "26May",
+      "Date": "15May",
       "Name": "Hector Graves",
       "Status": "Pending",
       "Amount": "90$",
       "id": "4"
     },
     {
-      "Date": "26May",
+      "Date": "18May",
       "Name": "Hector Graves",
       "Status": "Delivered",
       "Amount": "85$",
