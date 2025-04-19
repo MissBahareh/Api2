@@ -313,43 +313,53 @@
   "Quotation": [
     {
       "id": "1",
-      "Quotation": "Quotation 1 ?"
+      "Quotation": "Quotation 1 ?",
+      "Answer": "Answer 1"
     },
     {
       "id": "2",
-      "Quotation": "Quotation 2 ?"
+      "Quotation": "Quotation 2 ?",
+      "Answer": "Answer 2"
     },
     {
       "id": "3",
-      "Quotation": "Quotation 3 ?"
+      "Quotation": "Quotation 3 ?",
+      "Answer": "Answer 3"
     },
     {
       "id": "4",
-      "Quotation": "Quotation 4 ?"
+      "Quotation": "Quotation 4 ?",
+      "Answer": "Answer 4"
     },
     {
       "id": "5",
-      "Quotation": "Quotation 6 ?"
+      "Quotation": "Quotation 5 ?",
+      "Answer": "Answer 5"
     },
     {
       "id": "6",
-      "Quotation": "Quotation 6 ?"
+      "Quotation": "Quotation 6 ?",
+      "Answer": "Answer 6"
     },
     {
       "id": "7",
-      "Quotation": "Quotation 8 ?"
+      "Quotation": "Quotation 7 ?",
+      "Answer": "Answer 7"
     },
     {
       "id": "8",
-      "Quotation": "Quotation 8 ?"
+      "Quotation": "Quotation 8 ?",
+      "Answer": "Answer 8"
     },
     {
       "id": "9",
-      "Quotation": "Quotation 9 ?"
+      "Quotation": "Quotation 9 ?",
+      "Answer": "Answer 9"
     },
     {
       "id": "10",
-      "Quotation": "Quotation 10 ?"
+      "Quotation": "Quotation 10 ?",
+      "Answer": "Answer 10"
     }
   ]
 }
