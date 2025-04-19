@@ -264,49 +264,49 @@
       "Date": "10May",
       "Name": "Benjamin Chaz",
       "Status": "Delivered",
-      "Amount": "120$",
+      "Amount": "220$",
       "id": "1"
     },
     {
       "Date": "12May",
       "Name": "Walter Beau",
       "Status": "Delivered",
-      "Amount": "250$",
+      "Amount": "200$",
       "id": "2"
     },
     {
       "Date": "15May",
       "Name": "Diego Greene",
       "Status": "Pending",
-      "Amount": "90$",
+      "Amount": "180$",
       "id": "3"
     },
     {
       "Date": "15May",
       "Name": "Hector Graves",
       "Status": "Delivered",
-      "Amount": "90$",
+      "Amount": "150$",
       "id": "4"
     },
     {
       "Date": "18May",
       "Name": "Hector Graves",
       "Status": "Pending",
-      "Amount": "85$",
+      "Amount": "105$",
       "id": "4"
     },
     {
       "Date": "26May",
       "Name": "Romeo Garner",
       "Status": "Pending",
-      "Amount": "85$",
+      "Amount": "95$",
       "id": "5"
     },
     {
       "Date": "27May",
       "Name": "Katarina Aba",
       "Status": "Delivered",
-      "Amount": "85$",
+      "Amount": "80$",
       "id": "6"
     }
   ]
