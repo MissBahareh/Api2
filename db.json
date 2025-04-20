@@ -189,6 +189,14 @@
   ],
   "productsCales": [
     {
+      "id": "#365586",
+      "name": "Apple iPad 2022 WIFI",
+      "image": "https://i.imgur.com/NKJ6mx6.png",
+      "inStock": "inStock 10",
+      "status": "Onhold",
+      "Gender": "Man"
+    },
+    {
       "id": "#665214",
       "name": "Xiaomi Redmi Note 13 Pro",
       "image": "https://i.imgur.com/gKXfY6u.png",
