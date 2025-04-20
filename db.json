@@ -187,6 +187,32 @@
       "Gender": "Man"
     }
   ],
+  "productsCales": [
+    {
+      "id": "#665214",
+      "name": "Xiaomi Redmi Note 13 Pro",
+      "image": "https://i.imgur.com/gKXfY6u.png",
+      "inStock": "inStock 08",
+      "status": "Processing",
+      "Gender": "Women"
+    },
+    {
+      "id": "#940004",
+      "name": "Apple iPhone 16 CH Dual SIM",
+      "image": "https://i.imgur.com/gp1kNo9.png",
+      "inStock": "inStock 14",
+      "status": "Processing",
+      "Gender": "Man"
+    },
+    {
+      "id": "#325569",
+      "name": "Samsung Galaxy S24 Ultra Dual SIM",
+      "image": "https://i.imgur.com/jIk9aUh.png",
+      "inStock": "inStock 21",
+      "status": "Onhold",
+      "Gender": "Women"
+    }
+  ],
   "orders": [
     {
       "Date": "20May",
