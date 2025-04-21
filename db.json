@@ -185,6 +185,56 @@
       "Gender": "Women"
     }
   ],
+  "products2": [
+    {
+      "id": "#365586",
+      "name": "Apple iPad 2022 WIFI",
+      "image": "https://i.imgur.com/NKJ6mx6.png",
+      "inStock": "inStock 10",
+      "category": "Tablet",
+      "Price": "100.956"
+    },
+    {
+      "id": "#665214",
+      "name": "Xiaomi Redmi Note 13 Pro",
+      "image": "https://i.imgur.com/gKXfY6u.png",
+      "inStock": "inStock 08",
+      "category": "Mobile",
+      "Price": "70.956"
+    },
+    {
+      "id": "#940004",
+      "name": "Apple iPhone 16 CH Dual SIM",
+      "image": "https://i.imgur.com/gp1kNo9.png",
+      "inStock": "inStock 14",
+      "category": "Mobile",
+      "Price": "200.956"
+    },
+    {
+      "id": "#325569",
+      "name": "Samsung Galaxy S24 Ultra Dual SIM",
+      "image": "https://i.imgur.com/jIk9aUh.png",
+      "inStock": "inStock 21",
+      "category": "Mobile",
+      "Price": "93.956"
+    },
+    {
+      "id": "#363686",
+      "name": "Blackview Tab 16 4G",
+      "image": "https://i.imgur.com/0MH2zFc.png",
+      "inStock": "inStock 20",
+      "category": "Tablet",
+      "Price": "350.956"
+    },
+    {
+      "id": "#124588",
+      "name": "Honor 200 Dual SIM",
+      "image": "https://i.imgur.com/9mMReWf.png",
+      "inStock": "inStock 12",
+      "category": "mobile",
+      "Price": "350.956"
+    }
+  ],
   "orders": [
     {
       "Date": "20May",
