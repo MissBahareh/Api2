@@ -4,121 +4,85 @@
       "id": 1,
       "city": "Tehran",
       "number": "14",
-      "price": "$186.335"
+      "price": "$186.335",
+      "status": "active"
     },
     {
       "id": 2,
       "city": "Karaj",
       "number": "10",
-      "price": "$116.005"
+      "price": "$116.005",
+      "status": "deactive"
     },
     {
       "id": 3,
       "city": "Shiraz",
       "number": "20",
-      "price": "$106.405"
+      "price": "$106.405",
+      "status": "active"
     },
     {
       "id": 4,
       "city": "Tabriz",
       "number": "2",
-      "price": "$106.925"
+      "price": "$106.925",
+      "status": "active"
     },
     {
       "id": 5,
       "city": "Esfahan",
       "number": "5",
-      "price": "$106.005"
+      "price": "$106.005",
+      "status": "deactive"
     },
     {
       "id": 6,
       "city": "Yazd",
       "number": "6",
-      "price": "$106.895"
+      "price": "$106.895",
+      "status": "active"
     },
     {
       "id": 7,
       "city": "kerman",
       "number": "11",
-      "price": "$96.335"
+      "price": "$96.335",
+      "status": "active"
     },
     {
       "id": 8,
       "city": "zanjan",
       "number": "10",
-      "price": "$98.555"
+      "price": "$98.555",
+      "status": "active"
     },
     {
       "id": 9,
       "city": "Tehran",
       "number": "1",
-      "price": "$98.335"
+      "price": "$98.335",
+      "status": "deactive"
     },
     {
       "id": 10,
       "city": "Ghom",
       "number": "2",
-      "price": "$98.004"
+      "price": "$98.004",
+      "status": "active"
     },
     {
       "id": 11,
       "city": "Mashhad",
       "number": "14",
-      "price": "$98.115"
+      "price": "$98.115",
+      "status": "deactive"
     },
     {
       "id": 12,
       "city": "Zahedan",
       "number": "10",
-      "price": "$96.335"
-    },
-    {
-      "id": 13,
-      "city": "Zarghan",
-      "number": "1",
-      "price": "$86.665"
-    },
-    {
-      "id": 14,
-      "city": "Hashtgerd",
-      "number": "16",
-      "price": "$77.235"
-    },
-    {
-      "id": 15,
-      "city": "Pardis",
-      "number": "7",
-      "price": "$60.300"
-    },
-    {
-      "id": 16,
-      "city": "Ilam",
-      "number": "9",
-      "price": "$54.035"
-    },
-    {
-      "id": 17,
-      "city": "Rasht",
-      "number": "19",
-      "price": "$30.335"
-    },
-    {
-      "id": 18,
-      "city": "Shiraz",
-      "number": "6",
-      "price": "$20.400"
-    },
-    {
-      "id": 19,
-      "city": "Tehran",
-      "number": "10",
-      "price": "$16.335"
-    },
-    {
-      "id": 20,
-      "city": "Tabriz",
-      "number": "18",
-      "price": "$10.786"
+      "price": "$96.335",
+      "status": "active"
     }
   ],
   "products": [
