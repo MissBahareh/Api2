@@ -14,12 +14,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/MissBahareh/Api2/issues"
   },
   "homepage": "https://github.com/MissBahareh/Api2#readme",
   "dependencies": {
-    "json-server": "^0.17.4"
+    "json-server": "^0.17.4",
+    "node-fetch": "^3.3.2"
   }
 }
